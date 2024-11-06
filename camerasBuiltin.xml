@@ -248,4 +248,14 @@
     <senh>2.76</senh>
     <senw>3.674</senw>
   </Camera>
+  <Camera>
+    <name>Skydroid Two-Axis Gimbal Camera</name>
+    <flen>2.4</flen> <!-- Focal length in mm -->
+    <imgh>360</imgh> <!-- Image height in pixels -->
+    <imgw>240</imgw> <!-- Image width in pixels -->
+    <senh>4.04</senh> <!-- Sensor height in mm -->
+    <senw>5.37</senw> <!-- Sensor width in mm -->
+</Camera>
+
+
 </Cameras>
